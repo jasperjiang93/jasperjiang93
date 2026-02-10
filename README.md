@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Jasper+%F0%9F%91%8B;Web3+Infrastructure+Builder;Managing+%24B%2B+in+Staked+Assets;Founder+%7C+Engineering+Manager)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Jasper+%F0%9F%91%8B;Web3+Infrastructure+Builder;Managing+%2410B%2B+in+Staked+Assets;Founder+%7C+Engineering+Manager)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=jasperjiang93&style=flat-square&color=6366f1" alt="Profile views"/>
 
@@ -69,12 +69,9 @@ What happens when AI creates and manages its own currency? An exploration of AI-
 ## 💼 Experience Highlights
 
 ```text
-🏢 Senior Software Manager @ InfStones       2020 - Present
-   └─ Managing 20+ engineers, overseeing $10B+ in staked crypto assets
-   └─ Built Web3 staking infrastructure across 80+ blockchain protocols
+Managing 20+ engineers, overseeing $10B+ in staked crypto assets
+Built Web3 staking infrastructure across 80+ blockchain protocols
    
-🎓 M.S. Computer Science @ Georgia Tech      2024 - Present (Part-time)
-   └─ Focus: AI/ML, Knowledge-Based Systems
 ```
 
 <div align="center">
@@ -95,7 +92,6 @@ What happens when AI creates and manages its own currency? An exploration of AI-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasper-jiang/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pjj0073)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasperjiang93@gmail.com)
 
 </div>
