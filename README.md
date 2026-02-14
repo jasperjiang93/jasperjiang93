@@ -32,9 +32,9 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 [inbotwetrust.com](https://www.inbotwetrust.com)
+### [inbotwetrust.com](https://www.inbotwetrust.com)
 **AI Execution Infrastructure**
 
 Building an execution layer where AI agents coordinate work, call tools, and deliver outcomes autonomously.
@@ -44,14 +44,16 @@ Building an execution layer where AI agents coordinate work, call tools, and del
 *IBWT builds on lessons from operating real-world infrastructure — where automation, coordination, and reliability become the bottleneck as systems scale.*
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔗 [astroll.io](https://www.astroll.io)
+### [astroll.io](https://www.astroll.io)
 **Smart Contract Event Monitoring**
 
 Early infrastructure work in on-chain automation and monitoring. Foundation that led to IBWT.
 
 `Go` `Next.js` `PostgreSQL` `Telegram Bot`
+
+*Real-time on-chain event tracking with automated alerts — monitoring smart contract activity across multiple chains and delivering notifications via Telegram.*
 
 </td>
 </tr>
