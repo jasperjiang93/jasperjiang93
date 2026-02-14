@@ -1,11 +1,30 @@
 <div align="center">
 
 <!-- Dynamic typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Jasper+%F0%9F%91%8B;Web3+Infrastructure+Builder;Managing+%2410B%2B+in+Staked+Assets;Founder+%7C+Engineering+Manager)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Jasper+%F0%9F%91%8B;Web3+Infrastructure+Builder;Founder+%7C+Developer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=jasperjiang93&style=flat-square&color=6366f1" alt="Profile views"/>
 
+**Building infrastructure for autonomous AI systems to execute real work.**
+
 </div>
+
+---
+
+## ⚡ Currently Shipping
+
+- Building **IBWT** — execution layer for AI agents
+- Shipping MVP execution flows (agents → tools → outcomes)
+- Exploring AI-native coordination and automation systems
+
+---
+
+## 🧠 What I'm Interested In
+
+- Autonomous AI systems
+- Execution and coordination layers
+- Distributed infrastructure
+- Automation at scale
 
 ---
 
@@ -15,22 +34,24 @@
 <tr>
 <td width="50%">
 
-### 🔗 [astroll.io](https://www.astroll.io)
-**Smart Contract Event Monitoring**
+### 🤖 [inbotwetrust.com](https://www.inbotwetrust.com)
+**AI Execution Infrastructure**
 
-Real-time on-chain intelligence for Web3 builders. Track events, decode transactions, get alerts.
+Building an execution layer where AI agents coordinate work, call tools, and deliver outcomes autonomously.
 
-`Go` `Next.js` `PostgreSQL` `Telegram Bot`
+`AI Agents` `Solana` `MCP` `Execution Network`
+
+*IBWT builds on lessons from operating real-world infrastructure — where automation, coordination, and reliability become the bottleneck as systems scale.*
 
 </td>
 <td width="50%">
 
-### 🤖 [inbotwetrust.com](https://www.inbotwetrust.com)
-**AI × Crypto Experiment**
+### 🔗 [astroll.io](https://www.astroll.io)
+**Smart Contract Event Monitoring**
 
-What happens when AI creates and manages its own currency? An exploration of AI-native finance.
+Early infrastructure work in on-chain automation and monitoring. Foundation that led to IBWT.
 
-`AI Agents` `Solana` `$IBWT`
+`Go` `Next.js` `PostgreSQL` `Telegram Bot`
 
 </td>
 </tr>
@@ -69,21 +90,9 @@ What happens when AI creates and manages its own currency? An exploration of AI-
 ## 💼 Experience Highlights
 
 ```text
-Managing 20+ engineers, overseeing $10B+ in staked crypto assets
-Built Web3 staking infrastructure across 80+ blockchain protocols
-   
+Led engineering teams building and operating staking infrastructure
+Securing billions in on-chain assets across 80+ blockchain protocols.
 ```
-
-<div align="center">
-
-| 📊 By the Numbers | |
-|---|---|
-| **Years in Blockchain** | 6+ |
-| **Team Size Managed** | 20+ |
-| **Assets Under Management** | $10B+ |
-| **Protocols Supported** | 80+ |
-
-</div>
 
 ---
 
@@ -97,16 +106,14 @@ Built Web3 staking infrastructure across 80+ blockchain protocols
 </div>
 
 **Open to:**
-- 🌐 Web3 infrastructure collaborations
-- 💡 AI × Crypto project discussions  
-- 🤝 Angel investing & advisory roles
-- 🎯 Speaking opportunities
-
+- 🌐 AI infrastructure collaborations
+- 💡 AI × Crypto project discussions
+- 🤝 Angel investing
 ---
 
 <div align="center">
 
-*Building the decentralized future, one block at a time.*
+*Infrastructure is the leverage. Agents are the future.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer"/>
 
